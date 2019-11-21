@@ -1,0 +1,13 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+/* Display e Box Model */
+	margin: 0;
+
+/* Texto */
+	font-family: Aril, Helvetica, sans-serif;
+	font-size: 1.4rem;
+}
+
